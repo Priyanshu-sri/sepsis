@@ -1,0 +1,2 @@
+Name,Prediction,Confidence,HR,O2Sat,Temp,SBP,MAP,DBP,Resp,EtCO2,BaseExcess,HCO3,FiO2,pH,PaCO2,SaO2,AST,BUN,Alkalinephos,Calcium,Chloride,Creatinine,Bilirubin_direct,Glucose,Lactate,Magnesium,Phosphate,Potassium,Bilirubin_total,TroponinI,Hct,Hgb,PTT,WBC,Fibrinogen,Platelets,Age,Gender,Unit1,Unit2,HospAdmTime,ICULOS
+priyanshu srivastava,0,81.47%,80.0,23.0,39.0,120.0,85.0,75.0,16.0,40.0,2.0,23.0,12.0,75.0,34.0,45.0,56.0,65.0,34.0,55.0,88.0,22.0,12.0,90.0,35.0,67.0,33.0,49.0,1.0,0.9,45.0,34.0,1.0,25.0,0.01,250.0,72.0,1.0,1.0,0.0,-150.0,18.0
